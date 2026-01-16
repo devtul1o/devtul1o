@@ -17,10 +17,7 @@
     <img alt="vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
 </div>
 
-<div align="center"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=devtul1o&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtul1o&layout=compact&theme=radical">
-</div>
+
 
 ## <p align="center"> Formas de contato: </p>
 <div align="center"> <br>
