@@ -13,7 +13,7 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 </div>
 
@@ -31,7 +31,7 @@ class Tulio:
         self.currently   = "Aprofundando em LangChain e Inteligência Artificial"
 
     def say_hi(self):
-        print("Valeu por visitar meu perfil! Bora codar juntos? 🚀")
+        print("Valeu por visitar meu perfil! Bora codar juntos? ")
 
 me = Tulio()
 me.say_hi()
@@ -58,7 +58,7 @@ me.say_hi()
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-## 📈 Gráfico de Atividade
+## Gráfico de Atividade
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devtul1o&bg_color=0d1117&color=4079a8&line=4079a8&point=ffffff&area=true&hide_border=true)](https://github.com/devtul1o)
 
@@ -69,7 +69,7 @@ me.say_hi()
 <!-- SKILLS -->
 <div align="center">
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### 💻 Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -100,7 +100,7 @@ me.say_hi()
 <!-- SKILL LEVEL BARS -->
 <div align="center">
 
-## 📚 Nível de Conhecimento
+## Nível de Conhecimento
 
 </div>
 
@@ -122,29 +122,17 @@ me.say_hi()
 <!-- TROPHIES -->
 <div align="center">
 
-## 🏆 Troféus GitHub
+## Troféus GitHub
 
 <img src="https://github-profile-trophy.vercel.app/?username=devtul1o&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 
 </div>
 
-<br/>
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-## 💬 Citação do Dia
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
-<br/>
 
 <!-- CONTACT -->
 <div align="center">
 
-## 📬 Formas de Contato
+## Formas de Contato
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tulio_)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sssantostulio@gmail.com)
