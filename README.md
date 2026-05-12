@@ -1,32 +1,96 @@
-## <p align="center"> Olá, mundo! 👋 Me chamo Túlio </p>
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4079a8&section=header">
-</div>
+<h1 align="center">Olá 👋, eu sou Túlio Santos</h1>
+
+<p align="center">
+💻 Estudante de Engenharia de Software - IFPE <br>
+🚀 Focado em desenvolvimento backend, IA e sistemas escaláveis
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+- 🎓 Engenharia de Software no IFPE  
+- 💡 Interesse em **Backend, Inteligência Artificial e Arquitetura de Sistemas**  
+- 🛠️ Experiência com APIs, CLI, automações e projetos web  
+- 📚 Atualmente estudando: **.NET, LangChain, RAG e IA aplicada**
+
+---
+
+## 🚀 Tecnologias
 
 <div align="center">
-  📚 Estudante de Engenharia de Software no IFPE. <br>
-  👨‍💻 Conhecimento básico em HTML, CSS, JavaScript e Python.<br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=dotnet)
+![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode)
+
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img  alt="Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
-      <img  alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
-      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp;
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-    <img alt="vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
 
+## 🔥 Streak (consistência)
 
-## <p align="center"> Formas de contato: </p>
-<div align="center"> <br>
- 
-  <a href="https://instagram.com/tul1o_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sssantostulio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/túlio-santos-78a808217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4079a8&section=footer">
+---
+
+## 🧩 Projetos em destaque
+
+- 🚀 Sistemas backend e APIs REST  
+- 🤖 Projetos com IA (LangChain, RAG)  
+- 🖥️ Aplicações CLI em Python  
+- 🌐 Interfaces web responsivas  
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://instagram.com/tulio_" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram">
+</a>
+
+<a href="mailto:sssantostulio@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/túlio-santos-78a808217/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+---
+
+## ⚡ Frase
+
+> "Construindo soluções hoje para os problemas de amanhã."
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4079a8&section=footer"/>
+
 </div>
