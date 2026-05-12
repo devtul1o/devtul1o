@@ -50,7 +50,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulio_&theme=tokyonight&hide_border=true&background=0d1117&stroke=4079a8&ring=4079a8&fire=ff6b6b&currStreakLabel=4079a8&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devtul1o&theme=tokyonight&hide_border=true&background=0d1117&stroke=4079a8&ring=4079a8&fire=ff6b6b&currStreakLabel=4079a8&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
 </div>
 
 <br/>
@@ -104,6 +104,8 @@ me.say_hi()
 
 </div>
 
+<div  align="center">
+
 | Tecnologia | Nível | Barra de Progresso |
 |:----------:|:-----:|:------------------:|
 | HTML / CSS | Intermediário | `████████░░` 80% |
@@ -113,6 +115,8 @@ me.say_hi()
 | LangChain | Básico/Intermediário | `█████░░░░░` 50% |
 | RAG (IA) | Em desenvolvimento | `████░░░░░░` 40% |
 
+</div>
+
 <br/>
 
 <!-- TROPHIES -->
@@ -120,7 +124,7 @@ me.say_hi()
 
 ## 🏆 Troféus GitHub
 
-<img src="https://github-profile-trophy.vercel.app/?username=tulio_&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=devtul1o&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 
 </div>
 
@@ -153,7 +157,7 @@ me.say_hi()
 <!-- PROFILE VIEWS -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=tulio_&color=4079a8&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=devtul1o&color=4079a8&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
 </div>
 
