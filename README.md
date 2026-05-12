@@ -60,7 +60,7 @@ me.say_hi()
 
 ## 📈 Gráfico de Atividade
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tulio_&bg_color=0d1117&color=4079a8&line=4079a8&point=ffffff&area=true&hide_border=true)](https://github.com/devtul1o)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devtul1o&bg_color=0d1117&color=4079a8&line=4079a8&point=ffffff&area=true&hide_border=true)](https://github.com/devtul1o)
 
 </div>
 
