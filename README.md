@@ -44,8 +44,8 @@ me.say_hi()
 
 ## 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tulio_&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4079a8&icon_color=4079a8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulio_&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4079a8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devtul1o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4079a8&icon_color=4079a8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtul1o&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4079a8&text_color=c9d1d9"/>
 
 </div>
 
@@ -60,7 +60,7 @@ me.say_hi()
 
 ## 📈 Gráfico de Atividade
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tulio_&bg_color=0d1117&color=4079a8&line=4079a8&point=ffffff&area=true&hide_border=true)](https://github.com/tulio_)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tulio_&bg_color=0d1117&color=4079a8&line=4079a8&point=ffffff&area=true&hide_border=true)](https://github.com/devtul1o)
 
 </div>
 
